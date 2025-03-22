@@ -7,7 +7,7 @@
 | ----- | ----- | ----- |
 | Phuong-An Bui | @phganie |____ |
 | Keerthi Chebrolu | @keerthic05 | Data cleaning and preprocessing for connectome dataset, implemented PCA model |
-| Aryaman Tepal | @aryamantepal | ___ |
+| Aryaman Tepal | @aryamantepal | Data cleaning and preprocessing for categorical dataset, applying scaling & normalization to data |
 
 ---
 
