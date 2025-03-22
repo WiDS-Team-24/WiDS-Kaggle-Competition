@@ -26,7 +26,7 @@
 
 ```
 # Clone the repo
-git clone https://github.com/WiDS-Kaggle-Competition/wids2025-brainhealth.git
+git clone https://github.com/WiDS-Team-24/WiDS-Kaggle-Competition.git
 cd wids2025-brainhealth
 
 # Install dependencies (Colab setup, or locally)
