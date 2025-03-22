@@ -15,7 +15,7 @@
 ---
 
 ## **🎯 Project Highlights**
-
+_
 	* Built a dual LightGBM model using dimensionality reduction (PCA), KNN imputation, and variance thresholding to predict ADHD diagnosis and sex using brain imaging and sociodemographic metadata
 	* Achieved an average validation F1 score of [insert score, e.g., 0.79] using weighted evaluation metrics
 	* Used Optuna for hyperparameter optimization across both models (ADHD and Sex_F)
