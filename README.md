@@ -121,17 +121,12 @@ These predictions aim to:
 ---
 
 ## **🖼️ Impact Narrative**
-
-**Answer the relevant questions below based on your competition:**
-
 **WiDS challenge:**
 
-**1. What brain activity patterns are associated with ADHD; are they different between males and females, and, if so, how?
-**
+**1. What brain activity patterns are associated with ADHD; are they different between males and females, and, if so, how?**
 * Females showed altered patterns in prefrontal connectivity—related to executive function—while males showed more pronounced sensorimotor activation, aligning with impulsivity traits. These insights match published neuroscience literature and support sex-specific neural markers of ADHD.
 
-**3. How could your work help contribute to ADHD research and/or clinical care?
-**
+**3. How could your work help contribute to ADHD research and/or clinical care?**
 * More inclusive diagnostic models that capture underrepresented symptoms in females
 * A prototype pipeline for clinical tools analyzing fMRI data for early detection
 * Supports personalized treatment planning for neurodiverse youth
