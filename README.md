@@ -6,7 +6,7 @@
 | Name | GitHub Handle | Contribution |
 | ----- | ----- | ----- |
 | Phuong-An Bui | @phganie |____ |
-| Keerthi Chebrolu | @keerthic05 | Data cleaning and preprocessing for connectome dataset |
+| Keerthi Chebrolu | @keerthic05 | Data cleaning and preprocessing for connectome dataset, implemented PCA model |
 | Aryaman Tepal | @aryamantepal | ___ |
 
 ---
