@@ -27,7 +27,7 @@
 ```
 # Clone the repo
 git clone https://github.com/WiDS-Team-24/WiDS-Kaggle-Competition.git
-cd wids2025-brainhealth
+cd WiDS_Team_24.ipynb
 
 # Install dependencies (Colab setup, or locally)
 pip install -r requirements.txt
