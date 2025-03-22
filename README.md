@@ -53,9 +53,9 @@ Open the .ipynb file in Colab or Jupyter and execute all cells to preprocess, tr
 This project is part of the WiDS Datathon 2025, powered by the Break Through Tech AI Program. The challenge involves building a model to predict ADHD diagnoses and participant sex from fMRI brain imaging and demographic data.
 
 These predictions aim to:
-	•	Address diagnostic gaps, especially for female ADHD cases which are often overlooked
-	•	Advance research in sex-specific brain development
-	•	Enable better mental health support through personalized and equitable diagnostics
+* Address diagnostic gaps, especially for female ADHD cases which are often overlooked
+* Advance research in sex-specific brain development
+* Enable better mental health support through personalized and equitable diagnostics
 
 ---
 
