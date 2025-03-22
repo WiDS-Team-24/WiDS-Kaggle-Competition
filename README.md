@@ -135,7 +135,7 @@ Across both tasks, we used Optuna to perform hyperparameter optimization, runnin
 
 ## **🚀 Next Steps & Future Improvements**
 
-**Address the following:**
+**We hope to address the following:**
 
 * Apply Graph Neural Networks (GNNs) to model fMRI as adjacency matrices
 * Use SHAP or LIME to interpret brain connectivity features
