@@ -6,8 +6,8 @@
 | Name | GitHub Handle | Contribution |
 | ----- | ----- | ----- |
 | Phuong-An Bui | @phganie |____ |
-| Keerthi Chebrolu | @MelRam | _____ |
-| Aryaman Tepal | @CharlieN | ___ |
+| Keerthi Chebrolu | @keerthic05 | _____ |
+| Aryaman Tepal | @aryamantepal | ___ |
 
 ---
 
