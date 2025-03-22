@@ -146,7 +146,6 @@ Across both tasks, we used Optuna to perform hyperparameter optimization, runnin
 
 ## **📄 References & Additional Resources**
 
-* Cite any relevant papers, articles, or tools used in your project
 
 ---
 
