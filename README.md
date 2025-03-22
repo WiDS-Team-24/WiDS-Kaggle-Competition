@@ -71,21 +71,21 @@ These predictions aim to:
 
 * Plots, charts, heatmaps, feature visualizations, sample dataset images
 
-Datasets Used:
-	* TRAIN_FUNCTIONAL_CONNECTOME_MATRICES.csv: fMRI brain connectivity matrices
-	* TRAIN_QUANTITATIVE_METADATA.xlsx: Numerical metadata like scan age
-	* TRAIN_CATEGORICAL_METADATA.xlsx: Demographic and environmental info
-	* TRAINING_SOLUTIONS.xlsx: Target variables (ADHD_Outcome, Sex_F)
-	* Equivalent test datasets
+*Datasets Used:*
+* TRAIN_FUNCTIONAL_CONNECTOME_MATRICES.csv: fMRI brain connectivity matrices
+* TRAIN_QUANTITATIVE_METADATA.xlsx: Numerical metadata like scan age
+* TRAIN_CATEGORICAL_METADATA.xlsx: Demographic and environmental info
+* TRAINING_SOLUTIONS.xlsx: Target variables (ADHD_Outcome, Sex_F)
+* Equivalent test datasets
 
 
-Preprocessing & Cleaning:
-	* Imputed missing values using KNNImputer (k=11 for train, k=5 for test)
-	* Used histograms and KDE plots to assess distribution before/after imputation
-	* Dropped rows with missing connectome data
-	* Merged datasets on participant_id
-	* Applied VarianceThreshold to remove low-variance features
-	* Applied PCA to retain 99% variance for model training
+*Preprocessing & Cleaning:*
+* Imputed missing values using KNNImputer (k=11 for train, k=5 for test)
+* Used histograms and KDE plots to assess distribution before/after imputation
+* Dropped rows with missing connectome data
+* Merged datasets on participant_id
+* Applied VarianceThreshold to remove low-variance features
+* Applied PCA to retain 99% variance for model training
 
 
 ---
@@ -112,10 +112,10 @@ Preprocessing & Cleaning:
 
 * Confusion matrix, precision-recall curve, feature importance plot, prediction distribution, outputs from fairness or explainability tools
 
-Key Observations:
-	* Scaling and PCA significantly improved training performance
-	* Imputation with KNN maintained realistic distributions and preserved feature variance
-	* Feature selection (via variance threshold) removed noise and reduced overfitting
+*Key Observations:*
+* Scaling and PCA significantly improved training performance
+* Imputation with KNN maintained realistic distributions and preserved feature variance
+* Feature selection (via variance threshold) removed noise and reduced overfitting
 
 
 ---
@@ -126,10 +126,12 @@ Key Observations:
 
 **WiDS challenge:**
 
-1. What brain activity patterns are associated with ADHD; are they different between males and females, and, if so, how?
+**1. What brain activity patterns are associated with ADHD; are they different between males and females, and, if so, how?
+**
 * Females showed altered patterns in prefrontal connectivity—related to executive function—while males showed more pronounced sensorimotor activation, aligning with impulsivity traits. These insights match published neuroscience literature and support sex-specific neural markers of ADHD.
 
-3. How could your work help contribute to ADHD research and/or clinical care?
+**3. How could your work help contribute to ADHD research and/or clinical care?
+**
 * More inclusive diagnostic models that capture underrepresented symptoms in females
 * A prototype pipeline for clinical tools analyzing fMRI data for early detection
 * Supports personalized treatment planning for neurodiverse youth
