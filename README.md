@@ -105,8 +105,6 @@ These predictions aim to:
 
 * Performance metrics (e.g., Kaggle Leaderboard score, F1-score)
 * How your model performed overall
-* How your model performed across different skin tones (AJL)
-* Insights from evaluating model fairness (AJL)
 
 **Potential visualizations to include:**
 
