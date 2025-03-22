@@ -1,7 +1,4 @@
 # WiDS Datathon 2025: Predicting ADHD and Sex from Brain Imaging
-
-⚠️ _Remember to update the above title and remove all guidance notes and examples in this template, before finalizing your README_
-
 ---
 
 ### **👥 Team Members**
@@ -15,11 +12,11 @@
 ---
 
 ## **🎯 Project Highlights**
-_
-	* Built a dual LightGBM model using dimensionality reduction (PCA), KNN imputation, and variance thresholding to predict ADHD diagnosis and sex using brain imaging and sociodemographic metadata
-	* Achieved an average validation F1 score of [insert score, e.g., 0.79] using weighted evaluation metrics
-	* Used Optuna for hyperparameter optimization across both models (ADHD and Sex_F)
-	* Merged, cleaned, and standardized over 4 datasets, including connectome matrices, categorical, and quantitative metadata
+
+* Built a dual LightGBM model using dimensionality reduction (PCA), KNN imputation, and variance thresholding to predict ADHD diagnosis and sex using brain imaging and sociodemographic metadata
+* Achieved an average validation F1 score of [insert score, e.g., 0.79] using weighted evaluation metrics
+* Used Optuna for hyperparameter optimization across both models (ADHD and Sex_F)
+* Merged, cleaned, and standardized over 4 datasets, including connectome matrices, categorical, and quantitative metadata
 
 🔗 [WiDS Datathon 2025 | Kaggle Competition Page](https://www.kaggle.com/competitions/widsdatathon2025/overview)
 
