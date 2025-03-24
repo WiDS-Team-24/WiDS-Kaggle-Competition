@@ -28,7 +28,7 @@
 # Clone the repo
 git clone https://github.com/WiDS-Team-24/WiDS-Kaggle-Competition.git
 cd [final]_wids_team_24.py
-//or [final]_wids_team_24.ipyn
+# or [final]_Wids_Team_24.ipynb
 # Install dependencies (Colab setup, or locally)
 pip install -r requirements.txt
 
