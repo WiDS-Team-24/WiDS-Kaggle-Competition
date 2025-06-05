@@ -14,7 +14,7 @@
 ## **🎯 Project Highlights**
 * Applied SMOTE for class imbalance, KNN imputation for missing values, and variance thresholding for feature selection
 * Developed an ensemble classification pipeline using LightGBM, Random Forest, and XGBoost to predict ADHD and sex from brain imaging and metadata
-* Achieved an average validation F1 score of [insert score, e.g., 0.79] using weighted evaluation metrics
+* Achieved an average validation F1 score of 0.73 using weighted evaluation metrics
 * Tuned hyperparameters with Optuna across 200+ trials
 * Merged, cleaned, and standardized over 4 datasets, including connectome matrices, categorical, and quantitative metadata
 
